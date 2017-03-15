@@ -1,0 +1,543 @@
+PicturePath=>/home/pi/V-Plotter/v-plotter/pictures<Can't get size of terminal windowX0=597, Y0=347, CL=692, CR=1281 StepsPermm=2.614379
+[1d[1G                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+[23d[1G--------------------------------------------------------------------------------[1d[1G                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+[1d[1G                                                                                
+[1d[1G                           *** Main menu plotter ***
+[3d[1G                                                                                
+[3d[10GM            - toggle move length, current value = 1 step(s)
+[4d[1G                                                                                
+[4d[10GCursor right - move plotter in positive X direction
+[5d[1G                                                                                
+[5d[10GCursor left  - move plotter in negative X direction
+[6d[1G                                                                                
+[6d[10GCursor up    - move plotter in positive Y direction
+[7d[1G                                                                                
+[7d[10GCursor down  - move plotter in negative Y direction
+[8d[1G                                                                                
+[8d[10GPage up      - lift pen
+[9d[1G                                                                                
+[9d[10GPage down    - touch down pen
+[10d[1G                                                                                
+[10d[10GF            - choose file. Current file = "noFiLE"
+[11d[1G                                                                                
+[11d[10G0            - move plotter to 0/0
+[12d[1G                                                                                
+[12d[10GS            - Scale set to = 1.0000. W = -2000.00cm, H = -2000.00cm
+[13d[1G                                                                                
+[13d[10GB            - Bold line = 0 steps
+[14d[1G                                                                                
+[14d[10GP            - plot file
+[16d[1G                                                                                
+[16d[10GEsc          - leave program
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[1d[1G                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+[1d[1G                                                                                
+[1d[1G                          *** Choose plotter file ***
+[3d[1G                                                                                
+[3d[1G>square.svg<
+[4d[1G                                                                                
+[4d[1G Raspberry_Pi_Logo.svg 
+[5d[1G                                                                                
+[5d[1G schoolbook.svg 
+[6d[1G                                                                                
+[6d[1G Raspberry_Pi_Logo_red.svg 
+[7d[1G                                                                                
+[7d[1G Raspberry_Pi_Logo_black.svg 
+[8d[1G                                                                                
+[8d[1G circle.svg 
+[9d[1G                                                                                
+[9d[1G Ahoj_logo.svg 
+[10d[1G                                                                                
+[10d[1G square_small.svg 
+[11d[1G                                                                                
+[11d[1G Raspberry_Pi_Logo_green.svg 
+[12d[1G                                                                                
+[12d[1G tux-caveman_02.svg 
+[25d[1GChoose file using up/down keys and confirm with 'Enter' or press 'Esc' to cancel.[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[25d[1G                                                                                
+[24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  0, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  1, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  3, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  4, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  4, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  5, xNow=         0, xMin=   1000000, xMax=  -1000000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  6, xNow=      3000, xMin=      3000, xMax=      3000, yMin=   1000000, yMax=  -1000000   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      3000, yMin=     13400, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      3000, yMin=     13400, yMax=     13400   [24d[1GReadState=  6, xNow=      3000, xMin=      3000, xMax=      3000, yMin=     13400, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      3000, yMin=      7100, yMax=     13400   [24d[1GReadState=  6, xNow=      9300, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      9300, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  6, xNow=      9300, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      9300, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  6, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  5, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [24d[1GReadState=  0, xNow=      3000, xMin=      3000, xMax=      9300, yMin=      7100, yMax=     13400   [1d[1G                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+[1d[1G                                                                                
+[1d[1G                           *** Main menu plotter ***
+[3d[1G                                                                                
+[3d[10GM            - toggle move length, current value = 1 step(s)
+[4d[1G                                                                                
+[4d[10GCursor right - move plotter in positive X direction
+[5d[1G                                                                                
+[5d[10GCursor left  - move plotter in negative X direction
+[6d[1G                                                                                
+[6d[10GCursor up    - move plotter in positive Y direction
+[7d[1G                                                                                
+[7d[10GCursor down  - move plotter in negative Y direction
+[8d[1G                                                                                
+[8d[10GPage up      - lift pen
+[9d[1G                                                                                
+[9d[10GPage down    - touch down pen
+[10d[1G                                                                                
+[10d[10GF            - choose file. Current file = "square.svg"
+[11d[1G                                                                                
+[11d[10G0            - move plotter to 0/0
+[12d[1G                                                                                
+[12d[10GS            - Scale set to = 1.0000. W = 6.30cm, H = 6.30cm
+[13d[1G                                                                                
+[13d[10GB            - Bold line = 0 steps
+[14d[1G                                                                                
+[14d[10GP            - plot file
+[16d[1G                                                                                
+[16d[10GEsc          - leave program
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[20d[1G                                                                                
+[20d[1G3 seconds until plotting starts !!!!!!!!!!!!!!!!!
+[1d[1G                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+[1d[1G                                                                                
+[1d[1G                             *** Plotting file ***
+[3d[1G                                                                                
+[3d[10GFile name: /home/pi/V-Plotter/v-plotter/pictures/square.svg
+[4d[1G                                                                                
+[4d[10GNumber of lines: 5
+[5d[1G                                                                                
+[5d[10GCurrent Position(0): X = 0, Y = 0     
+[6d[1G                                                                                
+[6d[10GProcess time: 00:00:00
+[24d[1G                                                                                
+[24d[1GMoving X: 0, Moving Y: 164
+[24d[1G                                                                                
+[24d[1GMoving X: 0, Moving Y: 0
+[24d[1G                                                                                
+[24d[1GMoving X: 164, Moving Y: 0
+[24d[1G                                                                                
+[24d[1GMoving X: 164, Moving Y: 164
+[24d[1G                                                                                
+[24d[1GMoving X: 0, Moving Y: 164
+[24d[1G                                                                                
+[24d[1GMoving X: 0, Moving Y: 164
+[1d[1G                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+[1d[1G                                                                                
+[1d[1G                             *** Plotting file ***
+[3d[1G                                                                                
+[3d[10GFile name: /home/pi/V-Plotter/v-plotter/pictures/square.svg
+[4d[1G                                                                                
+[4d[10GNumber of lines: 5
+[5d[1G                                                                                
+[5d[10GCurrent Position(5): X = 0, Y = 0     
+[6d[1G                                                                                
+[6d[10GProcess time: 00:00:04
+[24d[1G                                                                                
+[24d[1GMoving X: 0, Moving Y: 0
+[24d[1G                                                                                
+[24d[1GFinished! Press any key to return to main menu.
+[1d[1G                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+[1d[1G                                                                                
+[1d[1G                           *** Main menu plotter ***
+[3d[1G                                                                                
+[3d[10GM            - toggle move length, current value = 1 step(s)
+[4d[1G                                                                                
+[4d[10GCursor right - move plotter in positive X direction
+[5d[1G                                                                                
+[5d[10GCursor left  - move plotter in negative X direction
+[6d[1G                                                                                
+[6d[10GCursor up    - move plotter in positive Y direction
+[7d[1G                                                                                
+[7d[10GCursor down  - move plotter in negative Y direction
+[8d[1G                                                                                
+[8d[10GPage up      - lift pen
+[9d[1G                                                                                
+[9d[10GPage down    - touch down pen
+[10d[1G                                                                                
+[10d[10GF            - choose file. Current file = "square.svg"
+[11d[1G                                                                                
+[11d[10G0            - move plotter to 0/0
+[12d[1G                                                                                
+[12d[10GS            - Scale set to = 1.0000. W = 6.30cm, H = 6.30cm
+[13d[1G                                                                                
+[13d[10GB            - Bold line = 0 steps
+[14d[1G                                                                                
+[14d[10GP            - plot file
+[16d[1G                                                                                
+[16d[10GEsc          - leave program
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[24d[1G                                                                                
+[24d[1GWaiting for key press.
+[25d[1G                                                                                
+[25d[1G                                                                                
+[25d[1GExit program (y/n)?

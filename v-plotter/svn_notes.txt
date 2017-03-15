@@ -1,0 +1,1 @@
+checkout: svn co https://svn.riouxsvn.com/v-plotter/trunk --username 'testibus' --password '1aynuR'
