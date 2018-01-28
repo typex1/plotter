@@ -9,7 +9,7 @@
 //compile with gcc v-plotter.c -o v-plotter -I/usr/local/include -L/usr/local/lib -lwiringPi -lm
 //For details see:
 //http://www.HomoFaciens.de/technics-machines-v-plotter_en_navion.htm
-//fsp: latest update 20161031
+//fsp: latest update 20180128
 
 #include <stdio.h>
 #include <termios.h>
