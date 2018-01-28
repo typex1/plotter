@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" viewBox="0 0 21590 27940" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+ <defs>
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="21590" height="27940"/>
+  </clipPath>
+ </defs>
+ <g id="id2" class="Master_Slide" clip-path="url(#presentation_clip_path)">
+  <g id="bg-id2" visibility="visible" class="Background">
+   <rect fill="none" stroke="none" x="0" y="0" width="21590" height="27940"/>
+  </g>
+  <g id="bo-id2" visibility="visible" class="BackgroundObjects"/>
+ </g>
+ <g id="id1" class="Slide" visibility="visible" clip-path="url(#presentation_clip_path)">
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g>
+    <path fill="none" stroke="rgb(0,0,0)" d="M 6349,7200 L 6679,7216 6997,7262 7303,7338 7595,7441 7871,7571 8131,7725 8372,7904 8594,8105 8795,8326 8973,8568 9128,8827 9258,9104 9361,9395 9437,9701 9483,10019 9499,10349 9483,10679 9437,10997 9361,11303 9258,11595 9128,11871 8973,12131 8795,12372 8594,12594 8372,12795 8131,12973 7871,13128 7595,13258 7303,13361 6997,13437 6679,13483 6349,13499 6019,13483 5701,13437 5395,13361 5104,13258 4827,13128 4568,12973 4326,12795 4105,12594 3904,12372 3725,12131 3571,11871 3441,11595 3338,11303 3262,10997 3216,10679 3200,10349 3216,10019 3262,9701 3338,9395 3441,9104 3571,8827 3725,8568 3904,8326 4105,8105 4326,7904 4568,7725 4827,7571 5104,7441 5395,7338 5701,7262 6019,7216 6349,7200"/>
+   </g>
+  </g>
+ </g>
+</svg>

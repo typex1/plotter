@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg3374"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm"
+   sodipodi:docname="S_flatBez_10_01.svg">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1058"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="520"
+     inkscape:cx="375"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs3376" />
+  <metadata
+     id="metadata3379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       id="text3382"
+       style="font-style:normal;font-weight:normal;font-size:556.99475098px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="scale(1.0413854,0.96025927)">
+      <path
+         id="path3387"
+         style=""
+         d="M294.07477 56.184609L294.07477 109.76272L235.05726 87.46117L181.47915 80.117977L112.12678 97.524063L87.921442 147.02262L103.96768 187.81813L165.43292 209.84771L198.61327 216.64696L289.17931 257.98642L311.2088875 292.3906375L318.55208 336.85775L308.6251725 388.736045L278.84445 426.33591L230.1618 449.1813975L162.98519 456.79656L101.51995 450.26927L34.343334 430.9594L34.343334 374.38962L99.888126 402.67451L162.98519 412.19346L235.6012 393.69949L261.16639 340.9373L242.67243 294.15844L182.56703 268.86522L149.11471 262.33794L60.180493 223.99016L39.578758 192.78159L32.711513 151.37414L42.16247375 103.23543475L70.515356 66.519473L115.730384 43.26602975L175.22384 35.514882L233.42544 40.682314L294.07477 56.184609L294.07477 56.184609" />
+    </g>
+  </g>
+</svg>

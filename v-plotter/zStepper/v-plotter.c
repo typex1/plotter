@@ -41,13 +41,14 @@
 #define LEFT_STEPPER04 14
 
 
-#define RIGHT_STEPPER01  2
-#define RIGHT_STEPPER02  3
+#define RIGHT_STEPPER01 26
+#define RIGHT_STEPPER02 27
 
-#define RIGHT_STEPPER03 12
-#define RIGHT_STEPPER04 13
+#define RIGHT_STEPPER03 28
+#define RIGHT_STEPPER04 29
 
-#define STEP_PAUSE 1500
+//#define STEP_PAUSE 1500
+#define STEP_PAUSE 2000
 
 #define STEP_MAX 220.0
 
@@ -383,34 +384,34 @@ void MakeStepLeft(int direction){
   
   if(StepX == 0){
     digitalWrite(LEFT_STEPPER01, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER02, 0);
     digitalWrite(LEFT_STEPPER03, 0);
     digitalWrite(LEFT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepX == 1){
     digitalWrite(LEFT_STEPPER03, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER01, 0);
     digitalWrite(LEFT_STEPPER02, 0);
     digitalWrite(LEFT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepX == 2){
     digitalWrite(LEFT_STEPPER02, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER01, 0);
     digitalWrite(LEFT_STEPPER03, 0);
     digitalWrite(LEFT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepX == 3){
     digitalWrite(LEFT_STEPPER04, 1);    
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER01, 0);
     digitalWrite(LEFT_STEPPER02, 0);
     digitalWrite(LEFT_STEPPER03, 0);
+    usleep(STEP_PAUSE);
   }
   
-  usleep(STEP_PAUSE);
+  //usleep(STEP_PAUSE);
 }
 
 //++++++++++++++++++++++++++++++ MakeStepRight ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -427,35 +428,35 @@ void MakeStepRight(int direction){
 
   if(StepY == 0){
     digitalWrite(RIGHT_STEPPER01, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(RIGHT_STEPPER02, 0);
     digitalWrite(RIGHT_STEPPER03, 0);
     digitalWrite(RIGHT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepY == 1){
     digitalWrite(RIGHT_STEPPER03, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(RIGHT_STEPPER01, 0);
     digitalWrite(RIGHT_STEPPER02, 0);
     digitalWrite(RIGHT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepY == 2){
     digitalWrite(RIGHT_STEPPER02, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(RIGHT_STEPPER01, 0);
     digitalWrite(RIGHT_STEPPER03, 0);
     digitalWrite(RIGHT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepY == 3){
     digitalWrite(RIGHT_STEPPER04, 1);    
-    usleep(STEP_PAUSE);
     digitalWrite(RIGHT_STEPPER01, 0);
     digitalWrite(RIGHT_STEPPER02, 0);
     digitalWrite(RIGHT_STEPPER03, 0);
+    usleep(STEP_PAUSE);
   }
 
 //  printf("StepY\n");
-  usleep(STEP_PAUSE);
+  //usleep(STEP_PAUSE);
 }
 
 
@@ -827,7 +828,7 @@ int main(int argc, char **argv){
         //MoveLength *= 10;
         //if(MoveLength == 10000){
 	//fsp: changed because sometimes MoveLength is too large for my small setup
-        MoveLength *= 10;
+        MoveLength *= 40;
         if(MoveLength > 10000){
           MoveLength = 1;
         }

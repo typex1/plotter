@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg3374"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm"
+   sodipodi:docname="S_flatBez_10_01.svg">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1058"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="520"
+     inkscape:cx="375"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs3376" />
+  <metadata
+     id="metadata3379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       id="text3382"
+       style="font-style:normal;font-weight:normal;font-size:556.99475098px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="scale(1.0413854,0.96025927)">
+<path fill="none" stroke="rgb(0,0,0)" d="M294.07477,56.184609 L 294.07477,109.76272 235.05726,87.46117 181.47915,80.117977 112.12678,97.524063 87.921442,147.02262 103.96768,187.81813 165.43292,209.84771 198.61327,216.64696 289.17931,257.98642 311.2088875,292.3906375 318.55208,336.85775 308.6251725,388.736045 278.84445,426.33591 230.1618,449.1813975 162.98519,456.79656 101.51995,450.26927 34.343334,430.9594 34.343334,374.38962 99.888126,402.67451 162.98519,412.19346 235.6012,393.69949 261.16639,340.9373 242.67243,294.15844 182.56703,268.86522 149.11471,262.33794 60.180493,223.99016 39.578758,192.78159 32.711513,151.37414 42.16247375,103.23543475 70.515356,66.519473 115.730384,43.26602975 175.22384,35.514882 233.42544,40.682314 294.07477,56.184609 294.07477,56.184609"/>
+    </g>
+  </g>
+</svg>
