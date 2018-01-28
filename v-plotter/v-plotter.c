@@ -383,31 +383,31 @@ void MakeStepLeft(int direction){
   
   if(StepX == 0){
     digitalWrite(LEFT_STEPPER01, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER02, 0);
     digitalWrite(LEFT_STEPPER03, 0);
     digitalWrite(LEFT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepX == 1){
     digitalWrite(LEFT_STEPPER03, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER01, 0);
     digitalWrite(LEFT_STEPPER02, 0);
     digitalWrite(LEFT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepX == 2){
     digitalWrite(LEFT_STEPPER02, 1);
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER01, 0);
     digitalWrite(LEFT_STEPPER03, 0);
     digitalWrite(LEFT_STEPPER04, 0);    
+    usleep(STEP_PAUSE);
   }
   if(StepX == 3){
     digitalWrite(LEFT_STEPPER04, 1);    
-    usleep(STEP_PAUSE);
     digitalWrite(LEFT_STEPPER01, 0);
     digitalWrite(LEFT_STEPPER02, 0);
     digitalWrite(LEFT_STEPPER03, 0);
+    usleep(STEP_PAUSE);
   }
   
   usleep(STEP_PAUSE);
